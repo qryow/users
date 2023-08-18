@@ -1,16 +1,4 @@
 {
-  "users": [ 
-    { 
-      "name": "Jack",
-      "position": "Front Dev",
-      "expirience": "3",
-      "id": 1
-    },
-    { 
-      "name": "Tom",
-      "position": "Back Dev",
-      "expirience": "6",
-      "id": 2
-    }
-  ]  
+  "users": [],
+  "favorites": []
 }
